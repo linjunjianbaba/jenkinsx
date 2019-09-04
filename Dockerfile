@@ -1,1 +1,1 @@
-FROM gcr.io/jenkinsxio/jenkinsx:0.0.7
+FROM gcr.io/jenkinsxio/jenkinsx:0.0.76
